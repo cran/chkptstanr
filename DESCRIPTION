@@ -1,6 +1,7 @@
 Package: chkptstanr
 Title: Checkpoint MCMC Sampling with 'Stan'
-Version: 0.1.0
+Version: 0.1.1
+Date: 2022-04-27
 Authors@R: c(
   person(given = "Donald", 
     family = "Williams", 
@@ -31,10 +32,10 @@ Additional_repositories: https://mc-stan.org/r-packages/
 RdMacros: Rdpack
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2022-04-21 13:06:34 UTC; Donald.Williams
+Packaged: 2022-04-27 12:50:54 UTC; Donald.Williams
 Author: Donald Williams [aut, cre],
   Tyler Matta [aut],
   NWEA [cph]
 Maintainer: Donald Williams <donald.williams@nwea.org>
 Repository: CRAN
-Date/Publication: 2022-04-22 09:20:08 UTC
+Date/Publication: 2022-04-29 15:30:02 UTC

@@ -1,7 +1,9 @@
 
-<!-- README.md is generated from README.Rmd. Please edit that file -->
+# chkptstanr <img src="man/figures/logo.png" align="right" width = 250 />
 
-# chkptstanr
+[![CRAN
+Version](http://www.r-pkg.org/badges/version/chkptstanr)](https://cran.r-project.org/package=chkptstanr)
+[![Downloads](https://cranlogs.r-pkg.org/badges/chkptstanr)](https://cran.r-project.org/package=chkptstanr)
 
 The goal of **chkptstanr** is to fit Bayesian models in Stan with
 checkpointing, that is, the ability to stop the MCMC sampler at will,
@@ -17,6 +19,8 @@ You can install the development version of **chkptstanr** like so:
 ``` r
 # install.packages("chkptstanr")
 ```
+
+These packages are needed.
 
 ## Packages
 
